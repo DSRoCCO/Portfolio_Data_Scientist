@@ -3,8 +3,8 @@ This portfolio showcases data science projects I've developed, from raw data to 
 
 # Portafolio de Ciencia de Datos
 
-¡Bienvenido a mi portafolio de ciencia de datos! Aquí presento algunos de mis proyectos destacados en análisis de datos, machine learning y visualización.
-
+¡Bienvenido a mi portafolio de ciencia de datos!
+Este portafolio presenta proyectos de ciencia de datos que he desarrollado, desde la recolección de datos en bruto hasta el análisis y las conclusiones. Cada proyecto abarca etapas esenciales, como preparación de datos, modelado e interpretación de resultados. Planeo seguir ampliando este portafolio con el tiempo para reflejar mi aprendizaje continuo
 ### Proyectos
 
 - **[Proyecto 1: Análisis de Ventas](link-a-la-carpeta-del-proyecto-1)**  
