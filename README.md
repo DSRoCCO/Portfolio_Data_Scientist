@@ -7,7 +7,7 @@ This portfolio showcases data science projects I've developed, from raw data to 
 Este portafolio presenta proyectos de ciencia de datos que he desarrollado, desde la recolección de datos en bruto hasta el análisis y las conclusiones. Cada proyecto abarca etapas esenciales, como preparación de datos, modelado e interpretación de resultados. Planeo seguir ampliando este portafolio con el tiempo para reflejar mi aprendizaje continuo
 ### Proyectos
 
-- **[Proyecto 1: Data Wrangling (Manipulacion de Datos)](link-a-la-carpeta-del-proyecto-1](https://github.com/DSRoCCO/Portfolio_Data_Scientist/blob/main/Data_Wrangling_(Manipulaci%C3%B3n_de_datos)))**  
+- **[Proyecto 1: Data Wrangling (Manipulacion de Datos)](https://github.com/DSRoCCO/Portfolio_Data_Scientist/blob/main/Data_Wrangling_(Manipulaci%C3%B3n_de_datos)))**  
   Análisis exploratorio de datos de ventas y modelo predictivo. Usé Python, pandas y scikit-learn para el modelado.
 
 - **[Proyecto 2: Clasificación de Imágenes](link-a-la-carpeta-del-proyecto-2)**  
